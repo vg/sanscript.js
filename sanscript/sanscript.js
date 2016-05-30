@@ -31,7 +31,17 @@
      */
     var schemes = Sanscript.schemes = {
 
-        /* Bengali
+        /* Balinese
+         * -------
+         * 
+         */
+		
+		/* Batak
+         * -------
+         * 
+         */
+		 
+		 /* Bengali
          * -------
          * 'va' and 'ba' are both rendered as ব.
          */
@@ -45,6 +55,16 @@
             other: '    ড ঢ  য '.split(' ')
         },
 
+		/* Brahmi
+         * -------
+         * 
+         */
+		 
+		 /* Burmese
+         * -------
+         * 
+         */
+		
         /* Devanagari
          * ----------
          * The most comprehensive and unambiguous Brahmic script listed.
@@ -122,6 +142,11 @@
             symbols: '੦ ੧ ੨ ੩ ੪ ੫ ੬ ੭ ੮ ੯ ॐ ऽ । ॥'.split(' '),
             other: ' ਖ ਗ ਜ ਡ  ਫ  '.split(' ')
         },
+		
+		/* Javanese
+         * -------
+         * 
+         */
 
         /* Kannada
          * -------
@@ -136,7 +161,22 @@
             symbols: '೦ ೧ ೨ ೩ ೪ ೫ ೬ ೭ ೮ ೯ ಓಂ ಽ । ॥'.split(' '),
             other: '      ಫ  ಱ'.split(' ')
         },
+		
+		/* Khmer
+         * -------
+         * 
+         */
+		 
+		/* Lao
+         * -------
+         * 
+         */
 
+		 /* Lontara
+         * -------
+         * 
+         */
+		 
         /* Malayalam
          * ---------
          * Sanskrit-complete.
@@ -165,6 +205,16 @@
             other: '    ଡ ଢ  ଯ '.split(' ')
         },
 
+		/* Sinhala
+         * -------
+         * 
+         */
+		 
+		 /* Sudanese
+         * -------
+         * 
+         */
+		
         /* Tamil
          * -----
          * Missing R/RR/lR/lRR vowel marks and voice/aspiration distinctions.
@@ -193,6 +243,16 @@
             symbols: '౦ ౧ ౨ ౩ ౪ ౫ ౬ ౭ ౮ ౯ ఓం ఽ । ॥'.split(' '),
             other: '        ఱ'.split(' ')
         },
+		
+		/* Thai
+         * -------
+         * 
+         */
+		 
+		 /* Tibetan
+         * -------
+         * 
+         */
 
         /* International Alphabet of Sanskrit Transliteration
          * --------------------------------------------------
