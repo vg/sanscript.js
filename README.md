@@ -28,6 +28,21 @@ By default, Sanscript supports the following Brahmic schemes:
 * `tamil`
 * `telugu`
 
+With a goal to later add the following Brahmic schemes:
+
+* `balinese'
+* `batak'
+* `brahmi'
+* `burmese'
+* `javanese'
+* `khmer'
+* `lao'
+* `lontara'
+* `sinhala'
+* `sudanese'
+* `thai'
+* `tibetan'
+
 and the following Roman schemes:
 
 * `hk` (Harvard-Kyoto)
