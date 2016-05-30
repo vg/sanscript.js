@@ -260,7 +260,7 @@
             other_marks: ''.split(' '),
             virama: [''],
             consonants: 'ཀ ཁ ག ང ཅ ཆ ཇ ཉ ཊ ཋ ཌ ཎ ཏ ཐ ད ན པ ཕ བ མ ཡ ར ལ ཝ ཤ ཥ ས ཧ'.split(' '),
-            symbols: '༠	༡	༢	༣	༤	༥	༦	༧	༨	༩'.split(' '),
+            symbols: '༠ ༡ ༢ ༣ ༤ ༥ ༦ ༧ ༨ ༩'.split(' '),
             other: ''.split(' ')
         },
 
