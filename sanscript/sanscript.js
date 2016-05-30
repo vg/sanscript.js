@@ -33,14 +33,14 @@
 
         /* Balinese
          * -------
-         * 
+         *
          */
-		
+
 		/* Batak
          * -------
-         * 
+         *
          */
-		 
+
 		 /* Bengali
          * -------
          * 'va' and 'ba' are both rendered as ব.
@@ -57,14 +57,14 @@
 
 		/* Brahmi
          * -------
-         * 
+         *
          */
-		 
+
 		 /* Burmese
          * -------
-         * 
+         *
          */
-		
+
         /* Devanagari
          * ----------
          * The most comprehensive and unambiguous Brahmic script listed.
@@ -142,10 +142,10 @@
             symbols: '੦ ੧ ੨ ੩ ੪ ੫ ੬ ੭ ੮ ੯ ॐ ऽ । ॥'.split(' '),
             other: ' ਖ ਗ ਜ ਡ  ਫ  '.split(' ')
         },
-		
+
 		/* Javanese
          * -------
-         * 
+         *
          */
 
         /* Kannada
@@ -161,22 +161,22 @@
             symbols: '೦ ೧ ೨ ೩ ೪ ೫ ೬ ೭ ೮ ೯ ಓಂ ಽ । ॥'.split(' '),
             other: '      ಫ  ಱ'.split(' ')
         },
-		
+
 		/* Khmer
          * -------
-         * 
+         *
          */
-		 
+
 		/* Lao
          * -------
-         * 
+         *
          */
 
 		 /* Lontara
          * -------
-         * 
+         *
          */
-		 
+
         /* Malayalam
          * ---------
          * Sanskrit-complete.
@@ -207,14 +207,14 @@
 
 		/* Sinhala
          * -------
-         * 
+         *
          */
-		 
+
 		 /* Sudanese
          * -------
-         * 
+         *
          */
-		
+
         /* Tamil
          * -----
          * Missing R/RR/lR/lRR vowel marks and voice/aspiration distinctions.
@@ -243,16 +243,26 @@
             symbols: '౦ ౧ ౨ ౩ ౪ ౫ ౬ ౭ ౮ ౯ ఓం ఽ । ॥'.split(' '),
             other: '        ఱ'.split(' ')
         },
-		
+
 		/* Thai
          * -------
-         * 
+         *
          */
-		 
+
 		 /* Tibetan
          * -------
-         * 
+         *
          */
+		tibetan: {
+
+            vowels: 'ཨ ཨཱ ཨི ཨཱི ཨུ ཨཱུ ཨེ ཨཻ ཨོ ཨཽ རྀ རཱྀ ལྀ ལཱྀ ཨཾ ཨྃ ཨཿ'.split(' '),
+            vowel_marks: ''.split(' '),
+            other_marks: ''.split(' '),
+            virama: [''],
+            consonants: 'ཀ ཁ ག ང ཅ ཆ ཇ ཉ ཊ ཋ ཌ ཎ ཏ ཐ ད ན པ ཕ བ མ ཡ ར ལ ཝ ཤ ཥ ས ཧ'.split(' '),
+            symbols: '༠	༡	༢	༣	༤	༥	༦	༧	༨	༩'.split(' '),
+            other: ''.split(' ')
+        },
 
         /* International Alphabet of Sanskrit Transliteration
          * --------------------------------------------------
